@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NC7WZU04P6
+D Dual unbuffered inverter
+K unbuf not inv
+F http://www.farnell.com/datasheets/180069.pdf
+$ENDCMP
+#
+#End Doc Library

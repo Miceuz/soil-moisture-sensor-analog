@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-02 BZR 5402)-product   date = Wed 04 Feb 2015 06:24:01 PM CET
+
+BeginCmp
+TimeStamp = /54D21881;
+Reference = C1;
+ValeurCmp = 18p;
+IdModule  = SMD_Packages:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D218DE;
+Reference = C2;
+ValeurCmp = 18p;
+IdModule  = SMD_Packages:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D21E5C;
+Reference = C3;
+ValeurCmp = 1u;
+IdModule  = SMD_Packages:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D2222A;
+Reference = C4;
+ValeurCmp = 1n;
+IdModule  = SMD_Packages:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D22484;
+Reference = C5;
+ValeurCmp = 1n;
+IdModule  = SMD_Packages:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D2428C;
+Reference = C6;
+ValeurCmp = 1u;
+IdModule  = SMD_Packages:SMD-0603_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D21FCD;
+Reference = D1;
+ValeurCmp = DIODESCH;
+IdModule  = SMD_Packages:SOD-523;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D22068;
+Reference = D2;
+ValeurCmp = DIODESCH;
+IdModule  = SMD_Packages:SOD-523;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D22B40;
+Reference = P1;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D22CB3;
+Reference = Q1;
+ValeurCmp = MOSFET_P;
+IdModule  = SMD_Packages:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D2193D;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D21994;
+Reference = R2;
+ValeurCmp = 0R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D22EA4;
+Reference = R3;
+ValeurCmp = 1M;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D2209D;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D22174;
+Reference = R5;
+ValeurCmp = 1M;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D2252C;
+Reference = R6;
+ValeurCmp = 1M;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D222F8;
+Reference = R7;
+ValeurCmp = 1M;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D221C8;
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D21739;
+Reference = U1;
+ValeurCmp = NC7WZU04P6;
+IdModule  = Transistors_SMD:sc70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D24072;
+Reference = U2;
+ValeurCmp = LM358;
+IdModule  = SMD_Packages:SOIC-8-W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D213EA;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = Crystals:Crystal_HC49-SD_SMD;
+EndCmp
+
+EndListe
