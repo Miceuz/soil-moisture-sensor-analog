@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-02 BZR 5402)-product   date = Wed 04 Feb 2015 06:24:01 PM CET
+Cmp-Mod V01 Created by Cvpcb (2015-02-02 BZR 5402)-product   date = Thu 05 Feb 2015 12:34:56 AM CET
 
 BeginCmp
 TimeStamp = /54D21881;
@@ -127,6 +127,34 @@ IdModule  = SMD_Packages:SMD-0603_r;
 EndCmp
 
 BeginCmp
+TimeStamp = /54D2B12F;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D2B156;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D2B17D;
+Reference = R11;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D2B42B;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
 TimeStamp = /54D21739;
 Reference = U1;
 ValeurCmp = NC7WZU04P6;
@@ -134,10 +162,10 @@ IdModule  = Transistors_SMD:sc70-6;
 EndCmp
 
 BeginCmp
-TimeStamp = /54D24072;
+TimeStamp = /54D2AB47;
 Reference = U2;
-ValeurCmp = LM358;
-IdModule  = SMD_Packages:SOIC-8-W;
+ValeurCmp = LM324;
+IdModule  = SMD_Packages:SOIC-14_W;
 EndCmp
 
 BeginCmp
