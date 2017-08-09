@@ -1,10 +1,11 @@
 Drill report for /home/miceuz/Xaltura/analog-moist-sensor/analog-moist-sensor panel.kicad_pcb
-Created on Tue 17 Feb 2015 11:56:49 AM EET
+Created on Fri 27 Mar 2015 09:49:25 AM EET
 Drill report for plated through holes :
-T1  0,40mm  0,016"  (28 holes)
+T1  0,40mm  0,016"  (38 holes)
 T2  1,02mm  0,040"  (12 holes)
+T3  3,00mm  0,118"  (4 holes)
 
-Total plated holes count 40
+Total plated holes count 54
 
 
 Drill report for unplated through holes :
